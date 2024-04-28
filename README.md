@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   <a href="https://l4zyy.github.io/">
     <img src="assets/username.png" alt="L4zyy" /></a>
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=An+AI+engineer+applying+AI+to+games.)](https://git.io/typing-svg)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=An+AI+engineer+applying+AI+to+games." alt="Typing SVG" /></a>
 
 <!-- Social icons section -->
 <p align="center">
