@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="assets/username.png" alt="L4zyy" /></a>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=An+AI+engineer+applying+AI+to+games." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=An+AI+engineer+applying+AI+to+games." alt="Typing SVG" /></a>
 
 <!-- Social icons section -->
 <p align="center">
